@@ -1,0 +1,56 @@
+body {
+  background: url("./tape.jpg");
+  background-size: cover;
+  background-position: center;
+
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+html {
+  height: 100%;
+}
+nav {
+  background-color: transparent;
+}
+
+.nav-link {
+  /* text-align: center; */
+  color: #ffffff !important;
+  font-family: "IBM Plex Serif", serif !important;
+}
+
+.bg-light {
+  background-color: transparent !important;
+}
+a {
+  font-family: "IBM Plex Serif", serif;
+}
+.page-heading {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 6vw;
+  color: #ffffff;
+  font-weight: 100;
+  margin-top: -3%;
+}
+
+.des {
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 3%;
+  margin-top: -2%;
+  font-size: 2vw;
+  color: aliceblue;
+  font-weight: 100;
+}
+
+nav {
+  padding-left: 3% !important;
+}
+
+/* .content { */
+/* font-family: "Source Code Pro", monospace; */
+/* font-family: "IBM Plex Serif", serif; */
+/* -webkit-text-stroke-width: 0.5px; */
+/* -webkit-text-stroke-color: rgb(55, 198, 223); */
+/* } */

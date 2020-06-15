@@ -1,0 +1,28 @@
+img {
+  height: auto;
+  width: 500px;
+  margin-top: 4%;
+  border: 1px solid #999999;
+  padding: 2%;
+}
+
+.lead {
+  margin: 8%;
+  font-family: "IBM Plex Serif", serif !important;
+}
+
+nav {
+  padding-left: 3% !important;
+  background-color: white;
+}
+
+h4 {
+  display: flex;
+  justify-content: center;
+}
+
+.icons {
+  height: auto;
+  width: 100%;
+  max-width: 100px;
+}
