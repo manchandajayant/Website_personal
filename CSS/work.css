@@ -72,7 +72,7 @@ iframe {
   img {
     height: auto;
     width: 100%;
-    max-width: 330px;
+    max-width: 45s0px;
   }
   .lead {
     margin: 0%;
@@ -83,4 +83,7 @@ iframe {
     height: auto;
     width: 100%;
   }
+  /* nav {
+    padding-left: 44% !important;
+  } */
 }
