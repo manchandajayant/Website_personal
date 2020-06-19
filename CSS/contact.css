@@ -34,10 +34,16 @@ col {
   h4 {
     font-family: "IBM Plex Serif", serif !important;
   }
-
-  /* nav {
-    padding-left: 40% !important;
-  } */
+  #linkedin {
+    padding-bottom: 0.5% !important;
+  }
+  #git {
+    padding-top: 2% !important;
+  }
+  #you {
+    padding-top: 3% !important;
+    padding-bottom: 0% !important;
+  }
 }
 
 h4 {
