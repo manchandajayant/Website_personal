@@ -19,6 +19,10 @@ h5 {
   justify-content: center;
 }
 
+#verber {
+  margin-top: 0%;
+}
+
 img {
   height: auto;
   width: 100%;
@@ -88,6 +92,9 @@ iframe {
   }
   .row {
     padding-top: 19% !important;
+  }
+  #verber {
+    margin-top: 4%;
   }
   /* nav {
     padding-left: 44% !important;
