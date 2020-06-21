@@ -25,6 +25,15 @@ col {
   padding-left: 12%;
 }
 
+#insta {
+  padding-bottom: 2%;
+  padding-top: 2% !important;
+}
+
+nav {
+  background-color: #ffffff;
+}
+
 @media only screen and (max-width: 780px) {
   img {
     height: 20px !important;
@@ -65,11 +74,11 @@ col {
     padding-top: 10% !important;
     padding-bottom: -2% !important;
     margin-left: 2% !important;
-  }
+  }*/
   #insta {
     padding-bottom: 5%;
-    padding-top: 4% !important;
-  } */
+    padding-top: 5% !important;
+  }
 }
 
 h4 {
