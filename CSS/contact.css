@@ -31,10 +31,20 @@ col {
     filter: grayscale(1%);
     max-width: 50px !important;
   }
+  .container {
+    padding-left: 6%;
+    margin-bottom: 10%;
+  }
+  .col {
+    margin-top: 10%;
+  }
   #hard {
     margin-top: 10% !important;
     padding-top: 2%;
     padding-left: 0%;
+  }
+  nav {
+    background-color: #ffffff;
   }
   h4 {
     font-family: "IBM Plex Serif", serif !important;
