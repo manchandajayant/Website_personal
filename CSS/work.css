@@ -26,7 +26,7 @@ h5 {
 img {
   height: auto;
   width: 100%;
-  border: 1px solid #999999;
+
   padding: 1%;
 }
 
@@ -69,6 +69,13 @@ iframe {
   height: auto;
   width: 100%;
 }
+.img-fluid {
+  height: 30px !important;
+  width: 30px !important;
+  margin-left: 38% !important;
+
+  /* max-width: 100px; */
+}
 
 /* .iframe {
     display: flex;
@@ -96,6 +103,7 @@ iframe {
   #verber {
     margin-top: 4%;
   }
+
   /* nav {
     padding-left: 44% !important;
   } */
