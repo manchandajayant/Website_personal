@@ -11,6 +11,8 @@
 h4 {
   display: flex;
   justify-content: center;
+  font-family: "Dosis", sans-serif !important;
+  letter-spacing: 5px;
 }
 
 h5 {
@@ -18,6 +20,8 @@ h5 {
   margin-bottom: 0%;
   display: flex;
   justify-content: center;
+  font-family: "Dosis", sans-serif !important;
+  letter-spacing: 5px;
 }
 
 #verber {
@@ -34,6 +38,8 @@ img {
 nav {
   padding-left: 3% !important;
   background-color: white;
+  font-family: "Dosis", sans-serif !important;
+  letter-spacing: 5px;
 }
 
 a {

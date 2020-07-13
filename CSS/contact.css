@@ -53,6 +53,8 @@ nav {
   }
   nav {
     background-color: #ffffff;
+    font-family: "Dosis", sans-serif !important;
+    letter-spacing: 5px;
   }
   h4 {
     font-family: "Dosis", sans-serif !important;
