@@ -13,6 +13,7 @@ img {
   font-family: "Dosis", sans-serif !important;
   letter-spacing: 5px;
   font-size: 17px;
+  margin-left: none;
 }
 
 nav {
@@ -43,6 +44,24 @@ h5 {
 a {
   font-family: "Dosis", sans-serif !important;
   letter-spacing: 5px;
+}
+
+#tech {
+  height: 100px;
+  width: 100px;
+  border: none;
+  margin-top: 0%;
+}
+#tech-css {
+  height: 85px;
+  width: 100px;
+  border: none;
+  margin-top: 8%;
+  margin-bottom: 4%;
+}
+
+#design {
+  margin-bottom: 10%;
 }
 
 @media only screen and (max-width: 600px) {
