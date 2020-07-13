@@ -38,7 +38,7 @@ a {
   justify-content: flex-end;
   font-size: 6vw;
   color: #ffffff;
-  font-weight: 100;
+
   margin-top: -3%;
   font-family: "Dosis", sans-serif !important;
   letter-spacing: 5px;
@@ -51,7 +51,7 @@ a {
   margin-top: -2%;
   font-size: 2vw;
   color: aliceblue;
-  font-weight: 100;
+
   font-family: "Dosis", sans-serif !important;
   letter-spacing: 5px;
 }
