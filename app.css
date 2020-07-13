@@ -42,6 +42,7 @@ a {
   margin-top: -3%;
   font-family: "Dosis", sans-serif !important;
   letter-spacing: 5px;
+  font-weight: 100 !important;
 }
 
 .des {
@@ -51,7 +52,7 @@ a {
   margin-top: -2%;
   font-size: 2vw;
   color: aliceblue;
-
+  font-weight: 100 !important;
   font-family: "Dosis", sans-serif !important;
   letter-spacing: 5px;
 }
