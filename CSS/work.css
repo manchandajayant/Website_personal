@@ -1,7 +1,8 @@
 .lead {
   /* margin: 5%; */
   font-size: 17px;
-  font-family: "IBM Plex Serif", serif !important;
+  font-family: "Dosis", sans-serif !important;
+  letter-spacing: 5px;
   margin-top: 2%;
   padding-left: 10%;
   padding-right: 10%;
@@ -40,6 +41,11 @@ a {
 }
 .row {
   padding-top: 10% !important;
+}
+
+.painting {
+  width: 240px;
+  height: 240px;
 }
 
 /* #p {
@@ -103,6 +109,17 @@ iframe {
   #verber {
     margin-top: 4%;
   }
+  .painting {
+    width: 150px;
+    height: 150px;
+    /* margin-left: 10%; */
+  }
+  #images {
+    margin-left: 5% !important;
+  }
+  /* #text-on-image {
+    margin-right: 53% !important;
+  } */
 
   /* nav {
     padding-left: 44% !important;

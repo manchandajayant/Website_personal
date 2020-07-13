@@ -55,7 +55,8 @@ nav {
     background-color: #ffffff;
   }
   h4 {
-    font-family: "IBM Plex Serif", serif !important;
+    font-family: "Dosis", sans-serif !important;
+    letter-spacing: 5px;
   }
   iframe {
     height: auto;

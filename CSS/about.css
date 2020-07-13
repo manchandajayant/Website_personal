@@ -10,7 +10,8 @@ img {
   margin: 15%;
   margin-top: 5%;
   margin-bottom: 5%;
-  font-family: "IBM Plex Serif", serif !important;
+  font-family: "Dosis", sans-serif !important;
+  letter-spacing: 5px;
   font-size: 17px;
 }
 
@@ -22,14 +23,16 @@ nav {
 h4 {
   display: flex;
   justify-content: center;
-  font-family: "IBM Plex Serif", serif !important;
+  font-family: "Dosis", sans-serif !important;
+  letter-spacing: 5px;
 }
 h5 {
   margin-top: 10%;
   margin-bottom: 0%;
   display: flex;
   justify-content: center;
-  font-family: "IBM Plex Serif", serif !important;
+  font-family: "Dosis", sans-serif !important;
+  letter-spacing: 5px;
 }
 
 .icons {
@@ -46,7 +49,8 @@ h5 {
   }
   .lead {
     margin: 4%;
-    font-family: "IBM Plex Serif", serif !important;
+    font-family: "Dosis", sans-serif !important;
+    letter-spacing: 5px;
   }
   /* nav {
     padding-left: 43% !important;

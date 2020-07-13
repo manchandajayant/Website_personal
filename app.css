@@ -20,7 +20,8 @@ nav {
 .nav-link {
   /* text-align: center; */
   color: #ffffff !important;
-  font-family: "IBM Plex Serif", serif !important;
+  font-family: "Dosis", sans-serif !important;
+  letter-spacing: 5px;
 }
 
 .bg-light {
@@ -38,6 +39,8 @@ a {
   color: #ffffff;
   font-weight: 100;
   margin-top: -3%;
+  font-family: "Dosis", sans-serif !important;
+  letter-spacing: 5px;
 }
 
 .des {
@@ -48,6 +51,8 @@ a {
   font-size: 2vw;
   color: aliceblue;
   font-weight: 100;
+  font-family: "Dosis", sans-serif !important;
+  letter-spacing: 5px;
 }
 
 nav {
