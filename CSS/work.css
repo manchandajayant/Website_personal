@@ -44,6 +44,9 @@ nav {
 
 a {
   color: brown;
+
+  font-family: "Dosis", sans-serif !important;
+  letter-spacing: 5px;
 }
 .row {
   padding-top: 10% !important;

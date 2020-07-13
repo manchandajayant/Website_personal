@@ -40,6 +40,10 @@ h5 {
   width: 100%;
   max-width: 100px;
 }
+a {
+  font-family: "Dosis", sans-serif !important;
+  letter-spacing: 5px;
+}
 
 @media only screen and (max-width: 600px) {
   img {

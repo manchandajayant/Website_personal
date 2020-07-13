@@ -33,6 +33,11 @@ nav {
   background-color: #ffffff;
 }
 
+a {
+  font-family: "Dosis", sans-serif !important;
+  letter-spacing: 5px;
+}
+
 @media only screen and (max-width: 780px) {
   img {
     height: 20px !important;
