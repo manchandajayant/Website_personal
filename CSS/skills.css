@@ -71,13 +71,18 @@ a {
   img {
     height: auto;
     width: 100%;
-    max-width: 420px;
+    max-width: 200px;
   }
   .lead {
     margin: 4%;
     font-family: "Dosis", sans-serif !important;
     letter-spacing: 5px;
   }
+  .col-4 {
+    padding-bottom: 15% !important;
+    padding-top: 5% !important;
+  }
+
   /* nav {
     padding-left: 43% !important;
   } */

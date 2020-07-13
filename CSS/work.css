@@ -97,6 +97,10 @@ iframe {
     justify-content: center;
 } */
 
+.workContainer {
+  padding-bottom: 10%;
+}
+
 @media only screen and (max-width: 600px) {
   img {
     height: auto;
