@@ -25,9 +25,9 @@ col {
   padding-left: 12%;
 }
 
-#insta {
+/* #insta {
   padding-bottom: 2%;
-}
+} */
 
 nav {
   background-color: #ffffff;
@@ -91,12 +91,12 @@ h4 {
     padding-bottom: -2% !important;
     margin-left: 2% !important;
   }*/
-  #insta {
+  /* #insta {
     padding-bottom: 5%;
     padding-top: 3% !important;
-  }
+  } */
 }
 
-h4 {
+/* h4 {
   font-family: "IBM Plex Serif", serif !important;
-}
+} */
