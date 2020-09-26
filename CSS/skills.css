@@ -29,9 +29,11 @@ h4 {
   font-family: "Dosis", sans-serif !important;
   letter-spacing: 5px;
 }
+
 h5 {
   display: flex;
   justify-content: center;
+
   font-family: "Dosis", sans-serif !important;
   letter-spacing: 5px;
 }
@@ -41,10 +43,12 @@ h5 {
   width: 100%;
   max-width: 100px;
 }
+
 a {
   font-family: "Dosis", sans-serif !important;
   letter-spacing: 5px;
 }
+
 .aboutme {
   padding-bottom: 10%;
 }
@@ -55,6 +59,7 @@ a {
   border: none;
   margin-top: 0%;
 }
+
 #tech-css {
   height: 85px;
   width: 100px;
@@ -67,23 +72,50 @@ a {
   margin-bottom: 10%;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 640px) {
   img {
     height: auto;
     width: 100%;
     max-width: 200px;
   }
+
   .lead {
     margin: 4%;
     font-family: "Dosis", sans-serif !important;
     letter-spacing: 5px;
   }
+
   .col-4 {
     padding-bottom: 15% !important;
     padding-top: 5% !important;
   }
 
+  .h5 {
+    font-size: 17px;
+    letter-spacing: 4px;
+  }
+
+  #tech {
+    height: 30px;
+
+    width: 100%;
+    max-width: 30px;
+
+  }
+
+  #tech-css {
+    height: 40px;
+
+    width: 100%;
+    max-width: 40px;
+  }
+
+  .container {
+    padding-left: 1%;
+
+  }
+
   /* nav {
-    padding-left: 43% !important;
+    padding-left: none;
   } */
 }
