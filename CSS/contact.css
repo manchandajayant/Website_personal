@@ -48,36 +48,44 @@ h4 {
 }
 
 @media only screen and (max-width: 780px) {
-  img {
-    height: 20px !important;
+  .img-fluid {
+    height: 25px !important;
     filter: grayscale(1%);
-    max-width: 50px !important;
+    max-width: 25px !important;
   }
+
   .container {
     padding-left: 6%;
     margin-bottom: 10%;
   }
+
   .col {
     margin-top: 10%;
   }
+
   #hard {
     margin-top: 10% !important;
     padding-top: 2%;
     padding-left: 0%;
   }
+
   nav {
     background-color: #ffffff;
     font-family: "Dosis", sans-serif !important;
     letter-spacing: 5px;
   }
-  h4 {
+
+  .h4 {
     font-family: "Dosis", sans-serif !important;
-    letter-spacing: 5px;
+    letter-spacing: 2px;
+    font-size: 15px;
   }
+
   iframe {
     height: auto;
     width: 85%;
   }
+
   /* #linkedin {
     padding-bottom: 5% !important;
     padding-top: 1% !important;
