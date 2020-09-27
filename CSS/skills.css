@@ -61,12 +61,24 @@ a {
 }
 
 #tech-css {
-  height: 85px;
-  width: 100px;
+  height: 100px;
+  width: 100%;
+  max-width: 100px;
   border: none;
-  margin-top: 8%;
-  margin-bottom: 4%;
+  margin-top: 0%;
+
 }
+
+#tech-p5 {
+  height: 100px;
+  width: 100%;
+  max-width: 100px;
+  border: none;
+  margin-top: 0%;
+
+}
+
+
 
 #design {
   margin-bottom: 10%;
@@ -113,6 +125,15 @@ a {
     width: 100%;
     max-width: 27px;
   }
+
+  #tech-p5 {
+    height: 27px;
+
+    width: 100%;
+    max-width: 27px;
+  }
+
+
 
   .container {
     padding-left: 1%;
