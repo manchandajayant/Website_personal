@@ -105,6 +105,11 @@ iframe {
   padding-bottom: 10%;
 }
 
+.navbar-light .navbar-toggler {
+  border-color: rgba(0, 0, 0, 0.6);
+}
+
+
 @media only screen and (max-width: 780px) {
   img {
     height: auto;

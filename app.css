@@ -61,6 +61,11 @@ nav {
   padding-left: 3% !important;
   font-family: "Dosis", sans-serif !important;
   letter-spacing: 5px;
+
+}
+
+.navbar-light .navbar-toggler {
+  border-color: rgba(0, 0, 0, 0.6);
 }
 
 @media only screen and (max-width: 600px) {
